@@ -1,5 +1,19 @@
 # ANÁLISIS SOBRE LA INCIDENCIA DELICTIVA EN LOS ESTADOS DE LA REPÚBLICA MEXICANA
 En este repositorio se encuentra todo el desarrollo del proyecto final del diplomado en Análisis de Datos
+Los integrantes del grupo son: 
+
+**JAVIER ISMAEL SAMPABLO CUEVAS**
+
+**RIGOBERTO TORRES CISNEROS**
+
+**ANA ISABEL HERNÁNDEZ DÍAZ**
+
+**FELIPE DE JESÚS ARREOLA GARCÍA**
+
+**MARIANNE ELVIRA HERNÁNDEZ HERNÁNDEZ**
+
+**DELIA PAULINA GUTIÉRREZ ZAMORA**
+
 
 
 
