@@ -126,5 +126,9 @@ Basar la formulación de políticas en evidencias derivadas del análisis de dat
   
   **5.2.3 Posibles limitaciones del análisis y sugerencias para trabajos futuros**
 
+La calidad y disponibilidad de datos pueden ser inconsistentes, lo que limita la precisión del análisis. Algunas regiones pueden tener registros incompletos o poco fiables; esto lo confirmamos en periodos donde hay registros en 0, o con datos muy bajos. 
+Los datos pueden tener categorías faltantes que ayuden a detallar los reportes, donde detallando estas, ayudará a tener estadísticas más amplias, que aporten a la lectura de la información.
+Las diferencias en la clasificación y registro de delitos entre estados pueden dificultar comparaciones precisas y la interpretación de datos, además, la subestimación de delitos denunciados puede llevar a una percepción errónea de la incidencia delictiva, afectando la validez de los resultados, por ejemplo no podemos tener datos precisos de los delitos desde que existe una importante cifra negra de delitos que nunca son denunciados, así mismo en cuanto a la clasificación, podemos ver que hay estados donde hay muy pocos feminicidios y sin embargo hay una significativa cifra de homicidios dolosos de mujeres, lo cual puede abrir la posibilidad de que algunos de esos homicidios no se están clasificando correctamente. 
+Cómo recomendaciones se propone desarrollar un sistema estandarizado de recopilación y reporte de datos sobre criminalidad que facilite la comparación entre estados y asegure la calidad de la información así como combinar análisis cuantitativos con enfoques cualitativos, como entrevistas y encuestas a la comunidad, para obtener una perspectiva más amplia sobre la inseguridad y la criminalidad.
 
   
