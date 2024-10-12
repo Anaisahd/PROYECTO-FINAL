@@ -83,6 +83,11 @@ Los tipos de delito en representación porcentual son muy inconsistentes, más d
 
 ![Captura de pantalla 2024-10-11 165224](https://github.com/user-attachments/assets/0e80323d-1dd9-41ff-8e56-c2134ed09411)
 
+**Análisis del sexenio de AMLO**
+
+![WhatsApp Image 2024-10-12 at 12 43 27 PM](https://github.com/user-attachments/assets/0e20b654-5bdd-498b-a9b2-a02730cf2f1c)
+
+
 **Cálculo de media delictiva por Entidad del año 2023.**
 
 ![Captura de pantalla 2024-10-11 165305](https://github.com/user-attachments/assets/f7906f32-faea-41db-909f-82e0fa917203)
